@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CustomerConsumer
+Bundle-SymbolicName: CustomerConsumer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.customer.consumer.CustomerActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: CustomerConsumer
+Import-Package: com.account.publisher,
+ com.artist.publisher,
+ com.delivery.publisher,
+ com.painting.publisher,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy

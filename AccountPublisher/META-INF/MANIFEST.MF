@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: AccountPublisher
+Bundle-SymbolicName: AccountPublisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.account.publisher.AccountActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: AccountPublisher
+Import-Package: com.database.service,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: com.account.publisher

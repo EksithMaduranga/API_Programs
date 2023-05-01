@@ -1,0 +1,7 @@
+D:\Program\Sliit.MTIT\Sliit.MTIT.Student\obj\Debug\net6.0\Sliit.MTIT.Student.csproj.AssemblyReference.cache
+D:\Program\Sliit.MTIT\Sliit.MTIT.Student\obj\Debug\net6.0\Sliit.MTIT.Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Sliit.MTIT\Sliit.MTIT.Student\obj\Debug\net6.0\Sliit.MTIT.Student.AssemblyInfoInputs.cache
+D:\Program\Sliit.MTIT\Sliit.MTIT.Student\obj\Debug\net6.0\Sliit.MTIT.Student.AssemblyInfo.cs
+D:\Program\Sliit.MTIT\Sliit.MTIT.Student\obj\Debug\net6.0\Sliit.MTIT.Student.csproj.CoreCompileInputs.cache
+D:\Program\Sliit.MTIT\Sliit.MTIT.Student\obj\Debug\net6.0\Sliit.MTIT.Student.MvcApplicationPartsAssemblyInfo.cs
+D:\Program\Sliit.MTIT\Sliit.MTIT.Student\obj\Debug\net6.0\Sliit.MTIT.Student.MvcApplicationPartsAssemblyInfo.cache
